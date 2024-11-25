@@ -52,3 +52,4 @@ group :development do
   gem "web-console"
 end
 
+gem "store_attribute", "~> 1.3.1"

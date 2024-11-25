@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-$ bundle install
+$ bin/bundle install
 $ bin/rails db:setup
 $ bin/rails db:migrate
 ```
