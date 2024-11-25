@@ -1,24 +1,9 @@
-# README
+# Testing [store_attribute](https://github.com/palkan/store_attribute) database save behavior
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Setup
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+$ bundle install
+$ bin/rails db:setup
+$ bin/rails db:migrate
+```
