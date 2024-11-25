@@ -289,7 +289,7 @@ DEPENDENCIES
   rubocop-rails-omakase
   sprockets-rails
   stimulus-rails
-  store_attribute (~> 1.3.1)
+  store_attribute (= 1.3.1)
   tailwindcss-rails
   turbo-rails
   tzinfo-data
