@@ -53,4 +53,4 @@ group :development do
   gem "annotate"
 end
 
-gem "store_attribute", "1.3.1"
+gem "store_attribute", "2.0.0"
